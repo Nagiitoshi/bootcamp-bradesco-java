@@ -1,4 +1,4 @@
-package edu.nagi.firstweek;
+package edu.nagi.anatomy;
 public class SchoolBulletin {
     public static void main(String[] args) {
         int finalAverage = 5;
