@@ -2,6 +2,9 @@ package edu.nagi.variableTypes;
 
 public class TypesVariable {
     public static void main(String[] args) {
+        String name = "Nagi";
+        String lastName = "itoshi";
+        
         double salary = 2000;
         short shortNumber = 2;
         int normalNumber1 = shortNumber;
