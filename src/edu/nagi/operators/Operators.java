@@ -1,4 +1,4 @@
-package edu.nagi.Operators;
+package edu.nagi.operators;
 
 public class Operators {
     public static void main(String[] args) {
