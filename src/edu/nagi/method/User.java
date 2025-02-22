@@ -6,7 +6,6 @@ public class User {
         while (true) {
             SmartTv.menu();
         }
-
     }
 
 }
