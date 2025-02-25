@@ -1,10 +1,10 @@
-package edu.nagi.Exercises.Tarefas;
+package edu.nagi.exercises.tarefas;
 
 public class Tarefa  {
 
     public String descricao;
 
-    public Tarefa(String descricao) {
+   public Tarefa(String descricao) {
         this.descricao = descricao;
     }
 

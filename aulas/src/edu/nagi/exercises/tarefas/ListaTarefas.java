@@ -1,9 +1,10 @@
-package edu.nagi.Exercises.Tarefas;
+package edu.nagi.exercises.tarefas;
 
 import java.util.ArrayList;
 import java.util.List;
 
 public class ListaTarefas {
+    
     public List<String> tarefas;
 
     public ListaTarefas(List<String> tarefas) {
@@ -18,7 +19,7 @@ public class ListaTarefas {
 
     public void removerTarefa(String descricao) {
         tarefas.remove(descricao);
-        System.out.println("Tarefa: " + tarefas + " removida com sucesso!");
+        System.out.println("Tarefa [" + descricao + "] removida com sucesso!");
     }
 
     public void obterNumeroTotalTarefas() {
