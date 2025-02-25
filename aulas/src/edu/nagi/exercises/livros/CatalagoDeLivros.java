@@ -12,8 +12,8 @@ public class CatalagoDeLivros {
         this.catalagoLivros = new ArrayList<>();
     }
 
-    public void adicionarLivro(Livro livro) {
-        catalagoLivros.add(livro);
+    public void adicionarLivro(String nome, String autor, int anoPublicacao) {
+        catalagoLivros.add(new Livro(nome, autor, anoPublicacao));
     }
 
     public void pesquisarPorAutor(String autor) {
@@ -44,9 +44,9 @@ public class CatalagoDeLivros {
     public static void main(String[] args) {
         CatalagoDeLivros catalagoDeLivros = new CatalagoDeLivros();
 
-        catalagoDeLivros.adicionarLivro(new Livro("Livro 1", "Autor 1", 2020));
-        catalagoDeLivros.adicionarLivro(new Livro("Livro 2", "Autor 2", 2021));
-        catalagoDeLivros.adicionarLivro(new Livro("Livro 3", "Autor 3", 2022));
+        catalagoDeLivros.adicionarLivro("Livro 1", "Autor 1", 2020);
+        catalagoDeLivros.adicionarLivro("Livro 2", "Autor 2", 2021);
+        catalagoDeLivros.adicionarLivro("Livro 3", "Autor 3", 2022);
 
         System.out.println("====================================");
         catalagoDeLivros.pesquisarPorAutor("Autor 1");
