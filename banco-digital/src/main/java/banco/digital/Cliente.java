@@ -1,15 +1,12 @@
 package banco.digital;
 
-import java.util.List;
-
 import lombok.Getter;
 import lombok.Setter;
 
 @Getter
 @Setter
-public class Banco {
+public class Cliente {
 
     private String nome;
-    private List<Conta> contas;
-    
+
 }
