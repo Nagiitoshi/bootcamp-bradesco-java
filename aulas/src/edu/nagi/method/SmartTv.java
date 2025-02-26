@@ -1,4 +1,4 @@
-package edu.nagi.method;
+package aulas.src.edu.nagi.method;
 
 import java.util.Scanner;
 

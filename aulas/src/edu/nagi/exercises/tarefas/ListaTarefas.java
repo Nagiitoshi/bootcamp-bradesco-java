@@ -1,4 +1,4 @@
-package edu.nagi.exercises.tarefas;
+package aulas.src.edu.nagi.exercises.tarefas;
 
 import java.util.ArrayList;
 import java.util.List;

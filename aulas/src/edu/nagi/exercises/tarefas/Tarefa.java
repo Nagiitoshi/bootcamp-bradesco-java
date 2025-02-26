@@ -1,4 +1,4 @@
-package edu.nagi.exercises.tarefas;
+package aulas.src.edu.nagi.exercises.tarefas;
 
 public class Tarefa  {
 

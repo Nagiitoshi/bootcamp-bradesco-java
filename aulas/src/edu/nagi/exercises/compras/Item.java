@@ -1,4 +1,4 @@
-package edu.nagi.exercises.compras;
+package aulas.src.edu.nagi.exercises.compras;
 
 public class Item {
 

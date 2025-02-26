@@ -1,4 +1,4 @@
-package edu.nagi.variableTypes;
+package aulas.src.edu.nagi.variableTypes;
 
 public class TypesVariable {
     public static void main(String[] args) {
@@ -14,5 +14,9 @@ public class TypesVariable {
 
         System.out.println(shortNumber2);
         final double VALOR_DE_PI = 3.14;
+        System.out.println(VALOR_DE_PI);
+        System.out.println(name + " " + lastName);
+        System.out.println(salary);
+        System.out.println(number);
     }
 }

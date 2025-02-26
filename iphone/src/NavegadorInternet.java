@@ -1,3 +1,5 @@
+package iphone.src;
+
 public class NavegadorInternet implements Iphone {
 
     public void exibirPagina(String url) {

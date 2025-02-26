@@ -1,8 +1,11 @@
+package ContaBanco.src;
+
 import java.util.Scanner;
 
 public class ContaTerminal {
     public static void main(String[] args) throws Exception {
 
+        @SuppressWarnings("resource")
         Scanner scanner = new Scanner(System.in);
         int numero = 0;
         String agencia = "";
@@ -26,6 +29,6 @@ public class ContaTerminal {
         saldo = scanner.nextDouble();
 
         System.out.println("Olá " + nomeCliente + ", obrigado por criar uma conta em nosso banco, sua agência é "
-                + agencia + ", conta " + numero + " e seu saldo " + saldo + " já está disponível para saque.");
+                + agencia + ", conta " + numero + " e seu saldo " + saldo + " já está disponível para saque.");    
     }
 }
