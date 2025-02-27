@@ -1,4 +1,4 @@
-package aulas.src.edu.nagi.exercises.contatos;
+package edu.nagi.exercises.contatos;
 
 import java.util.HashSet;
 import java.util.Set;

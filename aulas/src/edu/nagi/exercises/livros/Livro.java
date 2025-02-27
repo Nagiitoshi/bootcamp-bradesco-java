@@ -1,4 +1,4 @@
-package aulas.src.edu.nagi.exercises.livros;
+package edu.nagi.exercises.livros;
 
 public class Livro {
 

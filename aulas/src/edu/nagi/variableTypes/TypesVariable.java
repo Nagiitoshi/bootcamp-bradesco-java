@@ -1,4 +1,4 @@
-package aulas.src.edu.nagi.variableTypes;
+package edu.nagi.variableTypes;
 
 public class TypesVariable {
     public static void main(String[] args) {

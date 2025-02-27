@@ -1,4 +1,4 @@
-package aulas.src.edu.nagi.operators;
+package edu.nagi.operators;
 
 public class Operators {
     public static void main(String[] args) {

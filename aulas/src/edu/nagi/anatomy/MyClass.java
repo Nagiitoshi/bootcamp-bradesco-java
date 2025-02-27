@@ -1,4 +1,4 @@
-package aulas.src.edu.nagi.anatomy;
+package edu.nagi.anatomy;
 public class MyClass {
     public static void main(String[] args) {
 

@@ -1,4 +1,4 @@
-package aulas.src.edu.nagi.exercises.pessoas;
+package edu.nagi.exercises.pessoas;
 
 import java.util.Comparator;
 
