@@ -1,4 +1,4 @@
-package edu.nagi.method;
+package edu.nagi.challenge.method;
 
 import java.util.Scanner;
 
