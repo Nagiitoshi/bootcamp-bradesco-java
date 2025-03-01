@@ -1,8 +1,8 @@
-package edu.nagi;
+package edu.nagi.challenge;
 
 import java.util.Scanner;
 
-public class Desafio {
+public class Challenge {
 
   public static void main(String[] args) {
 
