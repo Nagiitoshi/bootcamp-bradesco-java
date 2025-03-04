@@ -1,4 +1,4 @@
-package edu.nagi;
+package edu.nagi.challenge.conta;
 
 import java.util.Scanner;
 
