@@ -22,6 +22,14 @@
 - Conceitos de banco de dados relacional e não relacional
 - Persistência de dados
 
+### 🔹 Computação em Nuvem
+- Conceitos de nuvem com Azure
+- Gerenciabilidade, Governança e Segurança
+- Previsibilidade e Confiabilidade
+- Elasticidade e Escalabilidade
+- Modelos de custo: CapEx e OpEx
+- Tipos de Nuvem: Privada, Pública e Híbrida
+
 ## 🏆 Projetos e Desafios
 Durante o aprendizado, foram desenvolvidos diversos projetos e desafios aplicando as tecnologias e conceitos acima, consolidando o conhecimento na prática.
 
