@@ -29,6 +29,8 @@
 - Elasticidade e Escalabilidade
 - Modelos de custo: CapEx e OpEx
 - Tipos de Nuvem: Privada, Pública e Híbrida
+- Serviços de Nuvem: IaaS, PaaS e SaaS
+- Modelo de Responsabilidade Compartilhada
 
 ## 🏆 Projetos e Desafios
 Durante o aprendizado, foram desenvolvidos diversos projetos e desafios aplicando as tecnologias e conceitos acima, consolidando o conhecimento na prática.
