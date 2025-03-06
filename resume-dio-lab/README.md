@@ -36,10 +36,11 @@
 - Tipos de Nuvem: Privada, Pública e Híbrida
 - Serviços de Nuvem: IaaS, PaaS e SaaS
 - Modelo de Responsabilidade Compartilhada
-- Regiões e Pares de Região
-- Grupos de Recursos
-- Recursos como Máquinas Virtuais, Contas de Armazenamento, Redes Virtuais, etc.
-- Assinatura do Azure e Grupos de Gerenciamento
+- Componentes de Arquitetura do Azure
+  - Regiões e Pares de Região
+  - Grupos de Recursos
+  - Recursos como Máquinas Virtuais, Contas de Armazenamento, Redes Virtuais, etc.
+  - Assinatura do Azure e Grupos de Gerenciamento
 - Serviços de Computação no Azure
   - Máquinas Virtuais do Azure
   - Conjuntos de Disponibilidade de Máquinas Virtuais
@@ -47,6 +48,10 @@
   - Contêineres no Azure
   - Azure Functions
   - Serviços de Aplicativo do Azure
+- Segurança e Identidade no Azure
+  - Microsoft Entra ID e Domain Services
+  - Autenticação e Autorização
+  - Acesso Condicional
 
 ## 🏆 Projetos e Desafios
 
