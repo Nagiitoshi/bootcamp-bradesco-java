@@ -40,6 +40,13 @@
 - Grupos de Recursos
 - Recursos como Máquinas Virtuais, Contas de Armazenamento, Redes Virtuais, etc.
 - Assinatura do Azure e Grupos de Gerenciamento
+- Serviços de Computação no Azure
+  - Máquinas Virtuais do Azure
+  - Conjuntos de Disponibilidade de Máquinas Virtuais
+  - Área de Trabalho Virtual do Azure
+  - Contêineres no Azure
+  - Azure Functions
+  - Serviços de Aplicativo do Azure
 
 ## 🏆 Projetos e Desafios
 
